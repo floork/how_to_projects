@@ -3,10 +3,10 @@
 ### This shows you how to make projects if you forget about it:
 
 #### C++
-- [cpp](c_cpp/README.md)
+- [cpp](c_cpp/)
 
 #### C#
-- [c#](csharp/README.md)
+- [c#](csharp/)
 
 #### Python
 - [python](python/)
