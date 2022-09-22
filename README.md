@@ -5,7 +5,7 @@
 - [cpp](c_cpp/cpp.md)
 ---
 #### C#
-- [c#](c#/csharp.md)
+- [c#](csharp/csharp.md)
 ---
 #### Python
 - [python](python/python.md)
