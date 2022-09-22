@@ -1,10 +1,13 @@
 {
-    //General Settings
+    // General Settings
     "files.trimTrailingWhitespace": true,
     "files.insertFinalNewline": true,
     "editor.rulers": [
         80
     ],
+    "editor.tabSize": 2,
+    "editor.insertSpaces": false,
     "editor.formatOnSave": true,
-    "C_Cpp.clang_format_fallbackStyle": ".clang-format"
+    // C/C++ Settings
+    "C_Cpp.clang_format_fallbackStyle": "google"
 }
