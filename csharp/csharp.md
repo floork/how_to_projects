@@ -12,3 +12,14 @@ sudo pacman -Sy dotnet-sdk
 - [.vscode/settings.json](.vscode/settings.json)
 - [omnisharp.json](omnisharp.json)
 - [.editorconfig](.editorconfig)
+
+## Run
+##### Create
+```bash
+cd ./hello_world
+dotnet new console
+```
+##### Run
+```bash
+dotnet run
+```

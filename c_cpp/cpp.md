@@ -12,3 +12,13 @@ sudo pacman -Sy gcc gdb clang
 ## Settings
 - [.vscode/settings.json](.vscode/settings.json)
 - [.clang-format](.clang-format)
+
+## Run
+##### Compile
+```bash
+gcc hello_world.c
+```
+##### Run
+```bash
+./a.out
+```

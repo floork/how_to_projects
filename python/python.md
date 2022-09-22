@@ -15,3 +15,8 @@ pip install pylint black mypy
 Ctrl + Shift + P
 Python: Select Interpreter  # choose python from .env
 ```
+
+## Run
+```bash
+python hello_world.py
+```
