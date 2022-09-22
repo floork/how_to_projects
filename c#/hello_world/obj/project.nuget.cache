@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z2BP2+KBbGo6k9SzDH2twNsWfj7ukIoTPMrKOT80UiSKcoqDnyh+Xehf6zXUR2t0jMkT5G16zJ+X0K8uPeADiw==",
+  "success": true,
+  "projectFilePath": "/home/flo/Documents/projekt/c_sharp/hello_world/hello_world.csproj",
+  "expectedPackageFiles": [
+    "/home/flo/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.9/microsoft.aspnetcore.app.ref.6.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+/home/flo/Documents/projekt/c_sharp/hello_world/bin/Debug/net6.0/hello_world
+/home/flo/Documents/projekt/c_sharp/hello_world/bin/Debug/net6.0/hello_world.deps.json
+/home/flo/Documents/projekt/c_sharp/hello_world/bin/Debug/net6.0/hello_world.runtimeconfig.json
+/home/flo/Documents/projekt/c_sharp/hello_world/bin/Debug/net6.0/hello_world.dll
+/home/flo/Documents/projekt/c_sharp/hello_world/bin/Debug/net6.0/ref/hello_world.dll
+/home/flo/Documents/projekt/c_sharp/hello_world/bin/Debug/net6.0/hello_world.pdb
+/home/flo/Documents/projekt/c_sharp/hello_world/obj/Debug/net6.0/hello_world.csproj.AssemblyReference.cache
+/home/flo/Documents/projekt/c_sharp/hello_world/obj/Debug/net6.0/hello_world.GeneratedMSBuildEditorConfig.editorconfig
+/home/flo/Documents/projekt/c_sharp/hello_world/obj/Debug/net6.0/hello_world.AssemblyInfoInputs.cache
+/home/flo/Documents/projekt/c_sharp/hello_world/obj/Debug/net6.0/hello_world.AssemblyInfo.cs
+/home/flo/Documents/projekt/c_sharp/hello_world/obj/Debug/net6.0/hello_world.csproj.CoreCompileInputs.cache
+/home/flo/Documents/projekt/c_sharp/hello_world/obj/Debug/net6.0/hello_world.dll
+/home/flo/Documents/projekt/c_sharp/hello_world/obj/Debug/net6.0/ref/hello_world.dll
+/home/flo/Documents/projekt/c_sharp/hello_world/obj/Debug/net6.0/hello_world.pdb
+/home/flo/Documents/projekt/c_sharp/hello_world/obj/Debug/net6.0/hello_world.genruntimeconfig.cache
