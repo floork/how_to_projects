@@ -1,0 +1,10 @@
+{
+    //General Settings
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+    "editor.rulers": [
+        80
+    ],
+    "editor.formatOnSave": true,
+    "C_Cpp.clang_format_fallbackStyle": ".clang-format"
+}
